@@ -7,9 +7,9 @@
 主要分为五个级别：
 
 + logging.debug()
-+ info()
-+ warning()
-+ error()
++ logging.info()
++ logging.warning()
++ logging.error()
 + logging.critical()
 
 级别从低到高。
